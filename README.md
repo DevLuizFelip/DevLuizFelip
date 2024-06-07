@@ -46,7 +46,7 @@
 
 <div> 
 
-<a href = "mailto:contato.luicostasantana@outlook.com"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
+<a href = "mailto:luicostasantana@outlook.com"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF"></a>
 <a href="www.linkedin.com/in/luiz-felipe-costa-santana-038565311" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://www.instagram.com/apenas.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
